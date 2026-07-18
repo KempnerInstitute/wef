@@ -1,6 +1,6 @@
 # Install PyTorch first (not on PyPI):
-#   pip install torch==2.5.1+cu121 --index-url https://download.pytorch.org/whl/cu121
-torch==2.5.1+cu121
+#   pip install torch==2.13.0 --index-url https://download.pytorch.org/whl/cu121
+torch==2.13.0
 gym==0.21.0
 numpy==1.26.4
 pandas==2.3.3
