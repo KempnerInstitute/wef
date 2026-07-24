@@ -21,4 +21,4 @@ Technical contacts: satpreetsingh@gmail.com and sjohnsonyu@g.harvard.edu
 * [Installation instructions](INSTALL.md) (Linux + CUDA 12.x; Python 3.10; PyTorch 2.5.1)
 
 ## Animations
-![Weakly Electric Fish banner](https://satpreetsingh.github.io/files/MAFish_20250109_183556_58206857_5sec.gif)
+![Weakly Electric Fish banner](./media/old_demo_5sec.gif)
