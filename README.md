@@ -20,5 +20,15 @@ Technical contacts: satpreetsingh@gmail.com and sjohnsonyu@g.harvard.edu
 ### Documentation:
 * [Installation instructions](INSTALL.md) (Linux + CUDA 12.x; Python 3.10; PyTorch 2.5.1)
 
+### Dataset
+[Google Drive link for Data (~50 GB)](https://drive.google.com/drive/folders/1HE5sW-0j5KJgcznHziGUhq7qRz1rq8Hh?usp=drive_link)
+
+The following RUN_DIR(s) were copied over (used in `onpolicy/custom/fish/notebooks/`)
+```
+/srv/marl/satsingh/marl_fish/NEW/foraging/Dyn_F00_Kb_For_S1
+/srv/marl/satsingh/marl_fish/NEW/20260623_homing/Homing2_5MSeed9
+/home/satsingh/kr/mfrefactor/onpolicy/custom/rays/results/Homing2Rays2000000Seed1NoFood/
+```
+
 ## Animations
 ![Weakly Electric Fish banner](./media/old_demo_5sec.gif)
