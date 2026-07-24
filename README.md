@@ -1,9 +1,11 @@
+# Online Supplement
+![Weakly Electric Fish banner](./media/wef_banner.png)
 
-# Code and Supplement
 Code release and supplementary materials for [Singh and Johnson-Yu et al.,
 "Active Electrosensing and Communication in MARL-trained Weakly Electric Fish Collectives"](https://arxiv.org/abs/2511.08436).
 
-Contact: satpreetsingh@gmail.com, sjohnsonyu@g.harvard.edu, and kanaka_rajan@hms.harvard.edu 
+Corresponding author: kanaka_rajan@hms.harvard.edu
+Technical contacts: satpreetsingh@gmail.com and sjohnsonyu@g.harvard.edu
 
 ### BibTex
 ```bibtex
@@ -15,6 +17,8 @@ Contact: satpreetsingh@gmail.com, sjohnsonyu@g.harvard.edu, and kanaka_rajan@hms
 }
 ```
 
-Documentation:
-
+### Documentation:
 * [Installation instructions](INSTALL.md) (Linux + CUDA 12.x; Python 3.10; PyTorch 2.5.1)
+
+## Animations
+![Weakly Electric Fish banner](https://satpreetsingh.github.io/files/MAFish_20250109_183556_58206857_5sec.gif)
