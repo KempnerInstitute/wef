@@ -31,4 +31,33 @@ The following RUN_DIR(s) were copied over (used in `onpolicy/custom/fish/noteboo
 ```
 
 ## Animations
-![Weakly Electric Fish banner](./media/old_demo_5sec.gif)
+
+Several more available [uploaded here](https://drive.google.com/drive/folders/1BMak2XNf55nXIqf97vx08i-hixSFgYBJ?usp=drive_link)
+
+### Foraging
+![Foraging episode (env6, stitched)](./media/foraging/ep0_env6_stitched.gif)
+
+### Homing (electric)
+![Homing electric (ep2, env0)](./media/homing_electric/ep2_env0.gif)
+
+### Homing (rays)
+![Homing rays (ep0, clip03, arena)](./media/homing_rays/homing_rays_ep0_clip03_arena.gif)
+
+
+### Behavioral highlights (2 fish)
+
+#### Biting
+![Biting highlight (2 fish)](./media/highlights_nfish2_m1a1k1_patchy_square/biting/clip_02.gif)
+
+#### Chasing
+![Chasing highlight (2 fish)](./media/highlights_nfish2_m1a1k1_patchy_square/chasing/clip_02.gif)
+
+
+### Behavioral highlights (4-fish)
+
+#### Biting
+![Biting highlight](./media/highlights_m1a1k1_patchy_square/biting/clip_00.gif)
+
+#### Chasing
+![Chasing highlight](./media/highlights_m1a1k1_patchy_square/chasing/clip_02.gif)
+
