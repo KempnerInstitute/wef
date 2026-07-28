@@ -10,7 +10,7 @@ Technical contacts: satpreetsingh@gmail.com and sjohnsonyu@g.harvard.edu
 ### BibTex
 ```bibtex
 @article{singh2025understanding,
-  title={Understanding Electro-communication and Electro-sensing in Weakly Electric Fish using Multi-Agent Deep Reinforcement Learning},
+  title={Active Electrosensing and Communication in MARL-trained Weakly Electric Fish Collectives},
   author={Singh, Satpreet H and Johnson-Yu, Sonja and Lu, Zhouyang and Walsman, Aaron and Pedraja, Federico and Turcu, Denis and Sharma, Pratyusha and Saphra, Naomi and Sawtell, Nathaniel B and Rajan, Kanaka},
   journal={arXiv preprint arXiv:2511.08436},
   year={2025}
